@@ -33,7 +33,7 @@ This repository serves as a showcase of data preprocessing, EDA, and visual stor
 ## Dataset Highlights
 The dataset (tweets.csv) used in this project contains a rich set of attributes including user information (user_name, user_location, user_description), tweet content (text, hashtags), and metadata (date, source). The dataset may have missing values, which are handled carefully during the analysis process to ensure robust insights.
 
-[Dataset link]()
+[Dataset link](https://www.kaggle.com/datasets/aaditya1gautam/tweets-dataset-for-sentiment-analysis)
 
 ``` df.info() ```
 
